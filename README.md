@@ -1,4 +1,8 @@
-# neo
+# CheatStop Emulator (Movement Simulator based on Neo)
+## About
+This essentially emulates Minecrsft game code to predict where a player will be based on data. CheatStop usds it to detect players using movement cheats.
+
+## Neo
 Neo is a barebones, basic movement emulator for Minecraft's Java Edition physics (for version 1.8)
 
 ## Disclaimer
